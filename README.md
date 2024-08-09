@@ -1,5 +1,5 @@
 # Quantitative Asset Management
-Some work Inspired by Bernard Herskovic Quantitative Asset Management Class
+Some work Inspired by Bernard Herskovic's Quantitative Asset Management Class
 
 Leverage Aversion and Risk Parity
 
